@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>HUD</title>
+    <description>Most recent updates to HUD</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.1.7</title>
+      <description><![CDATA[
+        <h2>What's New</h2>
+        <ul>
+          <li>Added auto-update functionality</li>
+          <li>Fixed title truncation (now supports 27 characters)</li>
+          <li>Fixed CLI signing issues</li>
+        </ul>
+      ]]></description>
+      <title>1.1.7</title>
+      <pubDate>Fri, 17 Oct 2025 16:14:42 -0700</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/fnando/macos-apps/releases/download/hud-v1.1.7/hud-1.1.7.zip" length="13596995" type="application/octet-stream" sparkle:edSignature="tVrEcqJR5Xaz1cUL9TjKz0I2zVL0YXRMV0MiErWy1ZDfuI5hBuqn8dpRDXmuMiZOrrfg/YlecJuFjPTOSSbUAw=="/>
+    </item>
+  </channel>
+</rss>
