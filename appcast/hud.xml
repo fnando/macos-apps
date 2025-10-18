@@ -3,12 +3,12 @@
     <channel>
         <title>hud</title>
         <item>
-            <title>1.1.10</title>
-            <pubDate>Fri, 17 Oct 2025 17:54:19 -0700</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.1.10</sparkle:shortVersionString>
+            <title>1.1.11</title>
+            <pubDate>Fri, 17 Oct 2025 19:00:30 -0700</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.1.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/fnando/macos-apps/releases/download/hud-v1.1.10/hud-1.1.10.zip" length="13596553" type="application/octet-stream" sparkle:edSignature="PIiAIRJYRVYVZdxA/zmTDrQ4nUKh/HLn0onegyjHykg9/tJW++oO+2krzUv1g4NWDeyG4gqgifPS/jP4sxX5AA=="/>
+            <enclosure url="https://github.com/fnando/macos-apps/releases/download/hud-v1.1.11/hud-1.1.11.zip" length="13596644" type="application/octet-stream" sparkle:edSignature="fxX9QQ7sjcZP+XT252ebcw+HlI442Uy5WZa8sreZuWFNQilfuvow6R9brgqWvb+8BSjz7UFF12YqPNiy+yBmAg=="/>
         </item>
     </channel>
 </rss>
