@@ -5,7 +5,7 @@
         <item>
             <title>1.1.8</title>
             <pubDate>Fri, 17 Oct 2025 17:12:37 -0700</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.1.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/fnando/macos-apps/raw/refs/heads/main/appcast/hud-1.1.8.zip" length="13596522" type="application/octet-stream" sparkle:edSignature="1kN7lSoRGluxCSORSZE4wpPstq4aV8AofmcgQZz7m2G5CTYDEq17KvQlh4q/CCXZV0c7m9RurmvGvHLEA5r4CQ=="/>
