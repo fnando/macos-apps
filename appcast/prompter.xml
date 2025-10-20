@@ -3,12 +3,12 @@
     <channel>
         <title>Prompter</title>
         <item>
-            <title>1.0.0</title>
-            <pubDate>Sat, 18 Oct 2025 11:12:35 -0700</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <title>1.0.1</title>
+            <pubDate>Mon, 20 Oct 2025 13:09:06 -0700</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/fnando/macos-apps/releases/download/prompter-v1.0.0/prompter-1.0.0.zip" length="1327191" type="application/octet-stream" sparkle:edSignature="fByZDtkNjrwiBj5p1t4s5xE1gt63KDcPaz0lHaVhXBnCNVUuLMPGqlOrkxPRvQCnlhDRnarEtPFjK/wsUwkFDw=="/>
+            <enclosure url="https://github.com/fnando/macos-apps/releases/download/prompter-v1.0.1/prompter-1.0.1.zip" length="1398594" type="application/octet-stream" sparkle:edSignature="PkSRsT0Uh560YuIFagxTFKG8rM6VHdYoFsjSwfSnUfRjHs2MYt7H2JfSc3LhdP9CtNHuWkP8iXB8gZKKsncNAQ=="/>
         </item>
     </channel>
 </rss>
