@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Container</title>
+        <item>
+            <title>0.0.1</title>
+            <pubDate>Sun, 28 Jun 2026 21:39:46 -0700</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/fnando/macos-apps/releases/download/container-v0.0.1/container-0.0.1.zip" length="6378248" type="application/octet-stream" sparkle:edSignature="7vx+l6jryW0gF8Z0eflPspIq5wS4tBCARa9R0NM5UCPl67lYor8pv2hwxZ1ya8rAQjTuoi7aZmU1WeFdz6c9AQ=="/>
+        </item>
+    </channel>
+</rss>
