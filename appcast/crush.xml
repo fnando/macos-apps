@@ -3,12 +3,12 @@
     <channel>
         <title>Crush</title>
         <item>
-            <title>0.0.1</title>
-            <pubDate>Mon, 29 Jun 2026 08:56:20 -0700</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
+            <title>0.0.2</title>
+            <pubDate>Mon, 29 Jun 2026 15:51:38 -0700</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/fnando/macos-apps/releases/download/crush-v0.0.1/crush-0.0.1.zip" length="6481560" type="application/octet-stream" sparkle:edSignature="Y53ggmwm8bx0/UWsb/EOOSnBm0mwDURTwTVeeGZ7/j50DIEhCbcjYxMlHsDZEc87r8qNQJLV6nSS0PbW9RByAQ=="/>
+            <enclosure url="https://github.com/fnando/macos-apps/releases/download/crush-v0.0.2/crush-0.0.2.zip" length="6481688" type="application/octet-stream" sparkle:edSignature="BcU3WohdG1f1Ert4Xcd/hr7GHUVpkI4Na5hZcHoU9Ms7xpCcCN03X0LP5xJcAdHGGVstV5oSCxkO1f/XI/b9BA=="/>
         </item>
     </channel>
 </rss>
