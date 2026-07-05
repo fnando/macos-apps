@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Resize</title>
+        <title>resize</title>
         <item>
-            <title>0.0.3</title>
-            <pubDate>Thu, 02 Jul 2026 10:44:56 -0700</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
+            <title>0.0.4</title>
+            <pubDate>Sat, 04 Jul 2026 21:25:50 -0300</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/fnando/macos-apps/releases/download/resize-v0.0.3/resize-0.0.3.zip" length="2446973" type="application/octet-stream" sparkle:edSignature="R3VYfPdz9eIQKLQofYsCOPrBmxyZuJg/s4NXw0FBUYYKduX/t765kCYpuFRWA1IwkU5XMEJHVFIZ0vzlE1mfBw=="/>
+            <enclosure url="https://github.com/fnando/macos-apps/releases/download/resize-v0.0.4/resize-0.0.4.dmg" length="2804859" type="application/octet-stream" sparkle:edSignature="+0IB6WMAs8CjcbZRKZAfn1zh1+zZyCiyMFckK6+A2EjFMEdTgRAbRfHApAVT7GIsc5hmJiO/ku8UtIkA54hVBQ=="/>
         </item>
     </channel>
 </rss>
