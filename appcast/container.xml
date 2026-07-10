@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Container</title>
+        <title>container</title>
         <item>
-            <title>0.0.2</title>
-            <pubDate>Mon, 29 Jun 2026 09:16:06 -0700</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
+            <title>0.0.3</title>
+            <pubDate>Fri, 10 Jul 2026 18:11:26 -0300</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/fnando/macos-apps/releases/download/container-v0.0.2/container-0.0.2.zip" length="6588360" type="application/octet-stream" sparkle:edSignature="w1KMCXZ3hbtQHYWuF2s0yPzozIxMVxR43I1MEucJkbRd50L6uD53//QYAd6njMZqU9piT6FlZITplmNRxgmABw=="/>
+            <enclosure url="https://github.com/fnando/macos-apps/releases/download/container-v0.0.3/container-0.0.3.dmg" length="7208563" type="application/octet-stream" sparkle:edSignature="jNMzhl5gLJKrbwIcJaLDf2RSi+gwxCizy/8EXDhRylINmjAunjG3gp+10cxGqzd6/3DTVDPidmekOJL5JdmOAg=="/>
         </item>
     </channel>
 </rss>
