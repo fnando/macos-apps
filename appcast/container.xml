@@ -3,12 +3,12 @@
     <channel>
         <title>container</title>
         <item>
-            <title>0.0.3</title>
-            <pubDate>Fri, 10 Jul 2026 18:11:26 -0300</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
+            <title>0.0.4</title>
+            <pubDate>Sun, 12 Jul 2026 13:37:34 -0300</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/fnando/macos-apps/releases/download/container-v0.0.3/container-0.0.3.dmg" length="7208563" type="application/octet-stream" sparkle:edSignature="jNMzhl5gLJKrbwIcJaLDf2RSi+gwxCizy/8EXDhRylINmjAunjG3gp+10cxGqzd6/3DTVDPidmekOJL5JdmOAg=="/>
+            <enclosure url="https://github.com/fnando/macos-apps/releases/download/container-v0.0.4/container-0.0.4.dmg" length="7284430" type="application/octet-stream" sparkle:edSignature="9rFf/lMOSs6Ci5fGFHe0Wu5U/SgpBEH91XPulBNSGnIXjCGumAZGbaDbc5DZkJPw4tlrMAhGZFNikcRB2MNdDA=="/>
         </item>
     </channel>
 </rss>
