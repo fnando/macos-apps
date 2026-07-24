@@ -3,12 +3,12 @@
     <channel>
         <title>pushover</title>
         <item>
-            <title>0.0.2</title>
-            <pubDate>Thu, 23 Jul 2026 21:22:14 -0300</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
+            <title>0.0.3</title>
+            <pubDate>Fri, 24 Jul 2026 18:48:17 -0300</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/fnando/macos-apps/releases/download/pushover-v0.0.2/pushover-0.0.2.dmg" length="2359278" type="application/octet-stream" sparkle:edSignature="IOgPI4FUfkoG1TelCmaFzdXk6rcSt6Mm0nZM89aRDsK1/KdH9tM3czvGZ9O3M8AR0cJpPoephcisSrQQygIvBg=="/>
+            <enclosure url="https://github.com/fnando/macos-apps/releases/download/pushover-v0.0.3/pushover-0.0.3.dmg" length="2413865" type="application/octet-stream" sparkle:edSignature="oXtbKE3x+Z/eDBUTjiwBMW221aRqKLTB8zKt/WgnNVrvnOgVswXAjs3pG6k2EqfHD1Wpk8OczLluwUY4M3TACg=="/>
         </item>
     </channel>
 </rss>
