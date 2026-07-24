@@ -3,12 +3,12 @@
     <channel>
         <title>manifest</title>
         <item>
-            <title>0.0.5</title>
-            <pubDate>Thu, 23 Jul 2026 23:03:25 -0300</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.0.5</sparkle:shortVersionString>
+            <title>0.0.6</title>
+            <pubDate>Thu, 23 Jul 2026 23:19:24 -0300</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/fnando/macos-apps/releases/download/manifest-v0.0.5/manifest-0.0.5.dmg" length="4653397" type="application/octet-stream" sparkle:edSignature="YaSp8gZF2NrIpODxsg5yZ3dCs287GIlB++5Qeirn2cDPfNmsfTnl9Zbt73h98yXXV42R8+A7BgKvGO2l8IpWCQ=="/>
+            <enclosure url="https://github.com/fnando/macos-apps/releases/download/manifest-v0.0.6/manifest-0.0.6.dmg" length="4659379" type="application/octet-stream" sparkle:edSignature="51/vqI5qbrU8QyR2ODFaAYQD5X3Pl+qasQ+XGKKZ5W1PISTLxiI4bJ40HK+2FK4/jtvC7M0BG1esxLPp7nZPDQ=="/>
         </item>
     </channel>
 </rss>
