@@ -3,12 +3,12 @@
     <channel>
         <title>resize</title>
         <item>
-            <title>0.0.5</title>
-            <pubDate>Sat, 04 Jul 2026 21:56:33 -0300</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.0.5</sparkle:shortVersionString>
+            <title>0.0.6</title>
+            <pubDate>Tue, 28 Jul 2026 11:37:58 -0300</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/fnando/macos-apps/releases/download/resize-v0.0.5/resize-0.0.5.dmg" length="2805401" type="application/octet-stream" sparkle:edSignature="yxsUbaqZmbJvn6y6ZsVcd34MHcO0PuMMuuCTOsdG4fH7v3B4RmCPCKnPv+joi7djwXYOuv0yr89lEMhVH80OAg=="/>
+            <enclosure url="https://github.com/fnando/macos-apps/releases/download/resize-v0.0.6/resize-0.0.6.dmg" length="2808121" type="application/octet-stream" sparkle:edSignature="f8RXCWt2C+cj+TqUifNjVhiQc8tre24JXIr10mDDw2A/itFdgWib/qWg+3vjRelo9OcUQGPlQL1w2njT4TTEDA=="/>
         </item>
     </channel>
 </rss>
